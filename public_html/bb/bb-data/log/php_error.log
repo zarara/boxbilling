@@ -1,0 +1,73 @@
+[22-Oct-2017 16:42:11 UTC] License is not valid 0
+[22-Oct-2017 16:42:16 UTC] License is not valid 0
+[22-Oct-2017 16:43:10 UTC] License is not valid 0
+[22-Oct-2017 16:44:02 UTC] License is not valid 0
+[22-Oct-2017 16:44:03 UTC] License is not valid 0
+[22-Oct-2017 16:44:05 UTC] License is not valid 0
+[22-Oct-2017 16:44:36 UTC] License is not valid 0
+[22-Oct-2017 16:44:40 UTC] License is not valid 0
+[22-Oct-2017 16:55:22 UTC] Please check your login details 403
+[22-Oct-2017 17:12:29 UTC] Client id is missing 0
+[22-Oct-2017 17:14:09 UTC] 8 Undefined index: recurrent /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-library/Payment/Adapter/Custom.php 71
+[22-Oct-2017 17:18:17 UTC] 8 Undefined index: recurrent /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-library/Payment/Adapter/Custom.php 71
+[22-Oct-2017 17:18:31 UTC] Order #1 has no active service
+[22-Oct-2017 17:57:51 UTC] License is not valid 0
+[22-Oct-2017 17:57:53 UTC] License is not valid 0
+[22-Oct-2017 17:58:42 UTC] License is not valid 0
+[22-Oct-2017 17:58:50 UTC] License is not valid 0
+[22-Oct-2017 18:16:04 UTC] Please check your login details 403
+[22-Oct-2017 18:16:11 UTC] Please check your login details 403
+[22-Oct-2017 18:28:04 UTC] Order #1 has no active service
+[22-Oct-2017 18:39:33 UTC] Order #1 has no active service
+[22-Oct-2017 18:47:38 UTC] Admin is not logged in
+[22-Oct-2017 18:48:23 UTC] Please check your login details 403
+[22-Oct-2017 18:49:17 UTC] Check your login details 403
+[22-Oct-2017 19:05:37 UTC] 8 Undefined index: recurrent /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-library/Payment/Adapter/Custom.php 71
+[23-Oct-2017 01:04:00 UTC] Unable to find template "mod_page_install_index.php" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[23-Oct-2017 01:04:00 UTC] Page install_index not found
+[23-Oct-2017 01:04:12 UTC] Unable to find template "mod_page_bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed.png" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[23-Oct-2017 01:04:12 UTC] Page bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed not found
+[23-Oct-2017 01:04:12 UTC] Unable to find template "mod_page_bb-themes_huraga_assets_img_icons_apple-touch-icon-72-precomposed.png" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[23-Oct-2017 01:04:12 UTC] Page bb-themes_huraga_assets_img_icons_apple-touch-icon-72-precomposed not found
+[23-Oct-2017 01:04:12 UTC] Unable to find template "mod_page_bb-themes_huraga_assets_img_icons_apple-touch-icon-57-precomposed.png" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[23-Oct-2017 01:04:12 UTC] Page bb-themes_huraga_assets_img_icons_apple-touch-icon-57-precomposed not found
+[24-Oct-2017 15:28:49 UTC] Unable to find template "mod_page_install_index.php" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:28:49 UTC] Page install_index not found
+[24-Oct-2017 15:29:54 UTC] Unable to find template "mod_page_info_refs.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:29:54 UTC] Page info_refs not found
+[24-Oct-2017 15:29:56 UTC] Unable to find template "mod_page_.hg/requires" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:29:56 UTC] Page  not found
+[24-Oct-2017 15:29:57 UTC] Page /TeamFoundation/Administration/v3.0/CatalogService.asmx not found
+[24-Oct-2017 15:35:17 UTC] Unable to find template "mod_page_install_index.php" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:35:17 UTC] Page install_index not found
+[24-Oct-2017 15:35:18 UTC] Unable to find template "mod_page_install_index.php" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:35:18 UTC] Page install_index not found
+[24-Oct-2017 15:36:46 UTC] 
+[24-Oct-2017 15:41:01 UTC] Admin is not logged in
+[24-Oct-2017 15:41:52 UTC] Unable to find template "mod_page_admin.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:41:52 UTC] Page admin not found
+[24-Oct-2017 15:42:34 UTC] Unable to find template "mod_page_admin_profile.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:42:34 UTC] Page admin_profile not found
+[24-Oct-2017 15:42:52 UTC] Unable to find template "mod_page_admin_profile.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:42:52 UTC] Page admin_profile not found
+[24-Oct-2017 15:42:55 UTC] Unable to find template "mod_page_admin.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:42:55 UTC] Page admin not found
+[24-Oct-2017 15:45:47 UTC] Unable to find template "mod_page_install_index.php" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:45:47 UTC] Page install_index not found
+[24-Oct-2017 15:46:24 UTC] Page /admin/activity/log_get_list not found
+[24-Oct-2017 15:47:45 UTC] Unable to find template "mod_page_admin.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:47:45 UTC] Page admin not found
+[24-Oct-2017 15:47:45 UTC] Unable to find template "mod_page_admin.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:47:45 UTC] Page admin not found
+[24-Oct-2017 15:53:00 UTC] Module .php Admin controller class was not found
+[24-Oct-2017 15:55:48 UTC] Unable to find template "mod_page_info_refs.phtml" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:55:48 UTC] Page info_refs not found
+[24-Oct-2017 15:55:50 UTC] Unable to find template "mod_page_.hg/requires" (looked into: /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-themes/huraga/html, /home/admin/web/rhevin.boxbilling.xyz/public_html/bb/bb-modules/Page/html_client).
+[24-Oct-2017 15:55:50 UTC] Page  not found
+[24-Oct-2017 15:55:51 UTC] Page /TeamFoundation/Administration/v3.0/CatalogService.asmx not found
+[24-Oct-2017 15:57:37 UTC] Admin is not logged in
+[24-Oct-2017 15:57:40 UTC] Admin is not logged in
+[24-Oct-2017 16:02:56 UTC] Order #2 has no active service
+[24-Oct-2017 16:18:24 UTC] Module info Admin controller class was not found
+[24-Oct-2017 16:18:25 UTC] Page /index.php?_url=/bb-admin not found
+[24-Oct-2017 16:18:26 UTC] Module teamfoundation Admin controller class was not found
